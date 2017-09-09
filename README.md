@@ -3,7 +3,7 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 
 ## 介绍 ##
 一个Shell脚本，集成SSR多用户管理，流量限制，加密更改等基本操作。是一个基于ShadowsocksR官方的mujson的辅助脚本。方便用户操作
-如有任何问题和意见，欢迎加QQ群：277717865
+如有任何问题和意见。
 
 ## 更新日志 ##
 - 2017-3-8 1.0正式版本
@@ -29,22 +29,17 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 - 无法删除最后一名用户（官方限制）
 
 ## 安装 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/install.sh && bash install.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/cpgking/SSR-Bash-Python/master/install.sh && bash install.sh
 
 ## 卸载 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/uninstall.sh && bash uninstall.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/cpgking/SSR-Bash-Python/master/uninstall.sh && bash uninstall.sh
 
 ## 自检 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/cpgking/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
 
 ## 截图 ##
 ![1.png](1.png)
 
 ![2.png](2.png)
 
-## 参考资料 ##
-[ShadowsocksR](https://github.com/FunctionClub/shadowsocksr)
 
-[ShadowsocksR-manyuser mudbjson](https://github.com/breakwa11/shadowsocks-rss/wiki/Server-Setup(manyuser-with-mudbjson))
-
-[SSR-Bash](https://github.com/FunctionClub/SSR-Bash)
